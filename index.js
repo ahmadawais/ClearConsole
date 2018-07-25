@@ -1,7 +1,7 @@
 /**
  * Cross platform clear console.
  *
- * Works for Windows, Linux, macOS.
+ * Platform: Windows, Linux, macOS.
  *
  * @author <Ahmad Awais> (https://AhmadAwais.com/)
  */
