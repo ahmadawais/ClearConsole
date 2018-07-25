@@ -1,4 +1,4 @@
-# Changelog: Shades of Purple
+# Changelog:
 
 All notable changes in this project's [released versions](https://github.com/ahmadawais/shades-of-purple-vscode/releases) are documented in this file.
 
@@ -10,9 +10,22 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [2.2.0](https://github.com/ahmadawais/ClearConsole/compare/2.2.0...2.2.0) RELEASE
+### [2.3.0](https://github.com/ahmadawais/ClearConsole/compare/2.3.0...2.3.0) RELEASE
 
--  📖 DOC: Update the changelog [`b623c8d`](https://github.com/ahmadawais/ClearConsole/commit/b623c8d4199298bcddb87b22692dea3ee25fc84f)
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
+### [2.2.0](https://github.com/ahmadawais/ClearConsole/compare/2.1.0...2.2.0) RELEASE
+
+-  📖 DOC: Update the changelog [`ba49734`](https://github.com/ahmadawais/ClearConsole/commit/ba4973417c579586ef34b8ec3cf165286c1d55ee)
+-  📖 DOC: Update the changelog [`fdf1584`](https://github.com/ahmadawais/ClearConsole/commit/fdf1584e81f953470057a41cb4b8c7a8d1dcb4f6)
+
+![img](https://on.ahmda.ws/t5Xs/c)
+
+- 🐛 FIX: No log [`3308ddd`](https://github.com/ahmadawais/ClearConsole/commit/3308dddd27383ebc664600d2a410dd45a5d929c7)
 
 <br>
 
