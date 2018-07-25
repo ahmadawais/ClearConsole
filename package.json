@@ -26,7 +26,6 @@
 		"release-it": "^7.4.3"
 	},
 	"scripts": {
-		"log": "auto-changelog && git add . && git ci -m ' 📖 DOC: Update the changelog' && git push",
 		"release": "release-it && auto-changelog && git add . && git ci -m ' 📖 DOC: Update the changelog' && git push"
 	},
 	"auto-changelog": {
