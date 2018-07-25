@@ -12,10 +12,18 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [2.0.0](https://github.com/ahmadawais/ClearConsole/compare/2.0.0...2.0.0) RELEASE
+### [2.1.0](https://github.com/ahmadawais/ClearConsole/compare/2.1.0...2.1.0) RELEASE
+
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
+### 2.0.0 RELEASE
 
 ![img](https://on.ahmda.ws/t5AU/c)
 
-- 📦 NEW: Minor from now [`e330a49`](https://github.com/ahmadawais/ClearConsole/commit/e330a49f287b501334f834a2649f32a172c72fd7)
+- 📦 NEW: First commit [`a91f6e4`](https://github.com/ahmadawais/ClearConsole/commit/a91f6e488a98c263a91e44c0a8beda2266922d15)
 
 <br>
