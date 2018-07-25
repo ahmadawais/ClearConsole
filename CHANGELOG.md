@@ -14,4 +14,8 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 ### [2.0.0](https://github.com/ahmadawais/ClearConsole/compare/2.0.0...2.0.0) RELEASE
 
+![img](https://on.ahmda.ws/t5AU/c)
+
+- 📦 NEW: Minor from now [`e330a49`](https://github.com/ahmadawais/ClearConsole/commit/e330a49f287b501334f834a2649f32a172c72fd7)
+
 <br>
