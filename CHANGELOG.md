@@ -12,6 +12,8 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 ### [2.2.0](https://github.com/ahmadawais/ClearConsole/compare/2.2.0...2.2.0) RELEASE
 
+-  📖 DOC: Update the changelog [`b623c8d`](https://github.com/ahmadawais/ClearConsole/commit/b623c8d4199298bcddb87b22692dea3ee25fc84f)
+
 <br>
 
 ![hr](https://on.ahmda.ws/t6N5/c)
@@ -23,6 +25,9 @@ All notable changes in this project's [released versions](https://github.com/ahm
 ![img](https://on.ahmda.ws/t5AU/c)
 
 - 📦 NEW: Minor from now [`e330a49`](https://github.com/ahmadawais/ClearConsole/commit/e330a49f287b501334f834a2649f32a172c72fd7)
+
+-  📖 DOC: Update the changelog [`43cfa41`](https://github.com/ahmadawais/ClearConsole/commit/43cfa412338a7ff37464eb836c846bc1b809885a)
+-  📖 DOC: Update the changelog [`0d9e251`](https://github.com/ahmadawais/ClearConsole/commit/0d9e251b5da89012d0551e3683ffc721c5c18e88)
 
 ![img](https://on.ahmda.ws/t77b/c)
 
@@ -38,6 +43,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 ![img](https://on.ahmda.ws/t5AU/c)
 
+- 📦 NEW:t npm package [`f3f3ae9`](https://github.com/ahmadawais/ClearConsole/commit/f3f3ae9b130a84e39c7f029311883f87c6524c26)
 - 📦 NEW: First commit [`a91f6e4`](https://github.com/ahmadawais/ClearConsole/commit/a91f6e488a98c263a91e44c0a8beda2266922d15)
 
 <br>
